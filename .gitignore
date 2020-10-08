@@ -1,0 +1,10 @@
+
+################
+## Private settings
+
+.env
+vendor/
+.bundle/
+################
+## Noise
+*~
