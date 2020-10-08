@@ -24,8 +24,8 @@
   $ bundle exec ruby main.rb
   ```
   この際，Google Calendar API の client_id と client_secret が必要になる．
-  (ⅰ). [client_id と，client_secret の入手方法に関するドキュメント](https://developers.google.com/adwords/api/docs/guides/authentication?hl=ja#installed)
-  (ⅱ). [Google API console](https://console.developers.google.com)
+  + [client_id と，client_secret の入手方法に関するドキュメント](https://developers.google.com/adwords/api/docs/guides/authentication?hl=ja#installed)
+  + [Google API console](https://console.developers.google.com)
   
   認証に成功すると，`Aouthorize Success!`と表示される．
   
